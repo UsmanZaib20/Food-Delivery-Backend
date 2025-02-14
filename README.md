@@ -46,12 +46,12 @@
 
 **Response:**
 
-```json
+
 
 {
     "token": `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3YWY3ODRmYjU1ZTIzNWZkM2ZiNjYxNyIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTczOTU1MjkwNSwiZXhwIjoxNzM5NTU2NTA1fQ.G7Vb42_07FwiVHYAVbQA30iy7ARrFwn4IXQ_zmrW2GE`
 }
-```
+
 
 ### Restaurants
 
